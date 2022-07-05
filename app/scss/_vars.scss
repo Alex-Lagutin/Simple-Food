@@ -1,0 +1,17 @@
+$title: #363853;
+$default: #31352b;
+$orange: #ff6838;
+$violet: #f9faff;
+$white: #fff;
+$silver-200: #ececec;
+$silver-100: #f9faff;
+$gray: #c2c2c2;
+$darkBlue: #363853;
+$dark: #31352b;
+
+@function max($numbers...) {
+  @return m#{a}x(#{$numbers});
+}
+@function min($numbers...) {
+  @return m#{i}n(#{$numbers});
+}

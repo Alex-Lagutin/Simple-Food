@@ -1,0 +1,7 @@
+node_modules/
+dist/
+packege-lock.json
+app/css/*
+temp
+.vscode
+npm-debug
